@@ -44,8 +44,8 @@ These signals were used to estimate variables of the feature vector for each pat
 
 The set of variables that were estimated from these signals are: 
 
-* `mean()` - The mean value
-* `std()` - The standard deviation
+* `mean()` - The mean value.
+* `std()` - The standard deviation.
 
 This gives us a total of 66 variables. 
 

@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-The `run_analysis.R` does the following:
+The `run_analysis.R` script file does the following:
 
 1. Downloads and unzips the data in the current working directory if the relevant `.zip` file is not present.
 2. Reads in the train and test data and merges the two datasets.
